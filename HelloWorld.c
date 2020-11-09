@@ -3,4 +3,5 @@
 int main()
   {
    printf("LINE 1");
+   printf("LINE 2");
   }
